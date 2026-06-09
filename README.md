@@ -48,7 +48,6 @@ Whether you are just starting with large language models or want to see how agen
 
 ```bash
 git clone <repo-url>
-cd agentic-ai-crash-course
 ```
 
 ### 2. Install dependencies
@@ -146,8 +145,3 @@ __pycache__/
 .DS_Store
 ```
 
-## Notes
-
-This course is meant to help beginners build confidence with agentic AI techniques through practical, hands-on examples.
-
-Happy learning!
