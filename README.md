@@ -1,6 +1,6 @@
-# Agentic AI Crash Course
+# Agentic AI 
 
-Welcome to the Agentic AI Crash Course. This repository is a hands-on learning path for new AI developers who want to understand how to build intelligent, agent-driven systems using Python and modern language-model tools.
+This repository is a hands-on learning path for new AI developers who want to understand how to build intelligent, agent-driven systems using Python and modern language-model tools.
 
 Whether you are just starting with large language models or want to see how agents, memory, retrieval, and multimodal workflows fit together, this repo is designed to help you learn by doing.
 
